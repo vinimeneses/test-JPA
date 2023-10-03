@@ -23,8 +23,6 @@ Welcome to the Introductory Project on Object-Relational Mapping with JPA / Hibe
 
 5. Observe how the application creates and manipulates objects of the "Person" type and persists them in the database.
 
-6. Explore queries and lazy loading operations to understand the concepts covered.
-
 # Technologies Used
 
 ## Back-End
