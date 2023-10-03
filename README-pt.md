@@ -4,7 +4,6 @@ Bem-vindo ao Projeto de Nivelamento de Mapeamento Objeto-Relacional com JPA / Hi
 
 ## Funcionalidades
 
-
 - Demonstra o mapeamento de uma entidade "Pessoa" para uma tabela em um banco de dados.
 - Testei a funcionalidade do programa com o banco de dados.
 - Ilustra o uso de anotações JPA para mapeamento de classes e propriedades.
@@ -24,16 +23,7 @@ Bem-vindo ao Projeto de Nivelamento de Mapeamento Objeto-Relacional com JPA / Hi
 4. Execute o programa principal que demonstra o mapeamento objeto-relacional.
 
 5. Observe como a aplicação cria e manipula objetos do tipo "Pessoa" e persiste-os no banco de dados.
-
-6. Explore as consultas e operações de carregamento tardio para entender os conceitos abordados.
-
-## Estrutura do Projeto
-
-- `src/`: Contém o código-fonte do projeto.
-  - `entities/`: Contém as classes de entidades JPA, como "Pessoa".
-  - `dao/`: Contém classes responsáveis por acessar o banco de dados.
-  - `util/`: Contém utilitários e configurações do Hibernate.
-
+ 
 # Tecnologias Utilizadas
 
 ## Back-End
