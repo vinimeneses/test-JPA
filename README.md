@@ -1,3 +1,4 @@
+versão em pt-br [aqui](README-pt.md).
 # Introductory Project: Object-Relational Mapping with JPA / Hibernate
 
 Welcome to the Introductory Project on Object-Relational Mapping with JPA / Hibernate! This project from the "Object-Oriented Programming" course by Professor Nélio Alves offers a simple application that explores the fundamental concepts of object-relational mapping using JPA (Java Persistence API) and Hibernate.
